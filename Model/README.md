@@ -3,14 +3,14 @@ This folder contains the core components of the CNN-based Cats vs Dogs classific
 
 ## Contents
 
-- `cnn_model.py`  
+- `cnn.py`  
   → Python script containing the full CNN architecture, training pipeline, and evaluation logic.
 
-- `cnn_model.h5`  
+- `best_model.h5`  
   → Saved Keras model after training.  
   → Can be loaded for inference or further fine-tuning.
 
-- `training_plot.png`  
+- `accuracy_loss_graph.png`  
   → Accuracy and loss graph across training epochs.  
   → Useful for visualizing model performance and detecting overfitting.
 
