@@ -3,6 +3,9 @@ This folder contains the core components of the CNN-based Cats vs Dogs classific
 
 ## Contents
 
+- `Project_Report.ipynb`  
+  → Jupyter notebook containing full analysis, description and working of model.
+
 - `cnn.py`  
   → Python script containing the full CNN architecture, training pipeline, and evaluation logic.
 
