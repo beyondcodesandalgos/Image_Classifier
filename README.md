@@ -33,8 +33,8 @@ This project is a Convolutional Neural Network (CNN)-based image classification 
 
 - **Image_Classifier/**
   - `Project_Notebook.ipynb` — Main jupyter notebook
-  - `dataset/` — Contains training and testing images
-  - `model/` — Stores main code and model
+  - `data_set/` — Contains training and testing images
+  - `Model/` — Stores main code and model
   - `README.md` — Project description
 
 ---
