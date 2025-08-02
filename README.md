@@ -1,2 +1,37 @@
-# Image_Classifier
-Raw ML model to distinguish between images of cats and dogs using Convolutional Neural Networks (CNNs). Utilized a labeled dataset of pet images and trained a neural network from scratch, CNN architecture (Conv, Pooling, Flatten, Dense), Data augmentation, Accuracy/loss curves and model validation.
+
+# 🧠 Image Classifier using CNN
+
+This project is a Convolutional Neural Network (CNN)-based image classification ML model built using TensorFlow and Keras. It classifies images into predefined categories (cats and dogs) using deep learning techniques, data augmentation, Accuracy/loss curves, model validation and includes preprocessing, training, evaluation, and prediction steps.
+
+---
+
+## 🚀 Main Features
+
+- 📁 Image preprocessing with resizing and normalization  
+- 🧠 CNN architecture with Conv2D, MaxPooling, and Dense layers  
+- 📊 Model evaluation using accuracy and loss metrics  
+- 🖼️ Prediction on new images with visualization  
+- 🧪 Training and validation split for performance monitoring  
+- 📈 Graphical representation of training progress  
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+| Tool/Library     | Purpose                          |
+|------------------|----------------------------------|
+| Python           | Programming language             |
+| TensorFlow/Keras | Deep learning framework          |
+| NumPy            | Numerical operations             |
+| Matplotlib       | Visualization of results         |
+| PIL              | Image loading and manipulation   |
+| Jupyter Notebook | Interactive development          |
+
+---
+
+## 📦 Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/beyondcodesandalgos/Image_Classifier.git
+   cd Image_Classifier
