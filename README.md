@@ -24,7 +24,7 @@ This project is a Convolutional Neural Network (CNN)-based image classification 
 | TensorFlow/Keras | Deep learning framework          |
 | NumPy            | Numerical operations             |
 | Matplotlib       | Visualization of results         |
-| PIL              | Image loading and manipulation   |
+| OpenCV           | Image loading and manipulation   |
 | Jupyter Notebook | Interactive development          |
 
 ---
