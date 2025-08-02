@@ -8,7 +8,7 @@ This project is a Convolutional Neural Network (CNN)-based image classification 
 ## 🚀 Main Features
 
 - 📁 Image preprocessing with resizing and normalization  
-- 🧠 CNN architecture with Conv2D, MaxPooling, and Dense layers  
+- 🧠 CNN architecture with Conv2D, Flatten, MaxPooling, and Dense layers  
 - 📊 Model evaluation using accuracy and loss metrics  
 - 🖼️ Prediction on new images with visualization  
 - 🧪 Training and validation split for performance monitoring  
