@@ -31,13 +31,12 @@ This project is a Convolutional Neural Network (CNN)-based image classification 
 
 ## 📁 Project Structure
 
-Image_Classifier/
-│
-├── Image_Classifier.ipynb       # Main notebook
-├── dataset/                     # Contains training and testing images
-├── predictions/                 # Stores output predictions
-├── requirements.txt             # Python dependencies
-└── README.md                    # Project documentation
+- **Image_Classifier/**
+  - `Image_Classifier.ipynb` — Main notebook
+  - `dataset/` — Contains training and testing images
+  - `predictions/` — Stores output predictions
+  - `requirements.txt` — Python dependencies
+  - `README.md` — Project documentation
 
 ---
 
