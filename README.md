@@ -34,9 +34,8 @@ This project is a Convolutional Neural Network (CNN)-based image classification 
 - **Image_Classifier/**
   - `Image_Classifier.ipynb` — Main notebook
   - `dataset/` — Contains training and testing images
-  - `predictions/` — Stores output predictions
-  - `requirements.txt` — Python dependencies
-  - `README.md` — Project documentation
+  - `model/` — Stores main code and model
+  - `README.md` — Project description
 
 ---
 
